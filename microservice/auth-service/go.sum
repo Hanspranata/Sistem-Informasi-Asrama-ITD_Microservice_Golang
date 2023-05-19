@@ -1,0 +1,6 @@
+github.com/go-sql-driver/mysql v1.6.0 h1:Mtn71kk8t1nMy87zf8+UqosSKHmdwEJhT0Uzh+kfN6A=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:n4QJWl0eYbjgBmF5/9LHbY1EDYJwPxnUKtcRdCkVExI=
+github.com/gorilla/mux v1.8.0 h1:lUI7m6UnzABmCihpweN2g+fQ9/h/DOQjwudP5CQ5Hj0=
+github.com/gorilla/mux v1.8.0/go.mod h1:Jl0teuROjmkWTKMZy7L+B6N0o3/uGf6kIfx2y/Ady1w=
+github.com/jinzhu/gorm v1.9.12 h1:YXBKJnDXNLzKv9KSezqLn1sX0kfn6PQbx8xwmqPMb1E=
+github.com/jinzhu/gorm v1.9.12/go.mod h1:Oq4PwUdZal0tWvkr1v5hHmzvJXt6+6Ryvnb60/y6Nns=

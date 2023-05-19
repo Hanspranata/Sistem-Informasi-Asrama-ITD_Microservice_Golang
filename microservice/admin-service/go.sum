@@ -1,0 +1,12 @@
+github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:/f98fYbWs61NuC3v/Dt24HuOfCcpTT0Nxbk1Kwwv4JY=
+github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:ymDv9+kwuI7yQI/yyDzFNg1lvm4l+liwZ0RUZxJbE3c=
+github.com/golang-jwt/jwt/v4 v4.0.0-20210223164851-f5033bda0ae6 h1:bd/rzEZBdxRuTf6uKs4d63XlEz1QFZcU6SbsBBjXZvw=
+github.com/golang-jwt/jwt/v4 v4.0.0-20210223164851-f5033bda0ae6/go.mod h1:AgZfYddpCPB4JzwZUdp/CwT8ZPcmZcWXafnFx9N6rUU=
+github.com/gorilla/mux v1.8.0 h1:DzvzT4Cj03iGYY7mcVbg5O3gFV5IBZqGQJExsT0Hz/s=
+github.com/gorilla/mux v1.8.0/go.mod h1:7+ZX5GJx4/ylP1nV5zO8xEydxuL4m7tPHMbf+ZDTEbs=
+github.com/joho/godotenv v1.3.0 h1:NfXUkLbEK7LrD/v/2EYl1hsKSApfrvL/hkaGfzQErz4=
+github.com/joho/godotenv v1.3.0/go.mod h1:JdxnXP5ZpIgRdPqF6oQoy30RE+uPnHwE7KrGqNH/VR8=
+github.com/lib/pq v1.10.2 h1:Y5n1Z7lZtQatW7nrtt/g8j2XavmKJILYbLhs0ivxLc8=
+github.com/lib/pq v1.10.2/go.mod h1:Ot44Wmyr2LByxMZn+rdEhZ3JyMxokL+zNs7EGqZ3qrI=
+golang.org/x/crypto v0.0.0-20210220033146-aadfb00c3bba h1:ZgOyFj2FgtgEKevWlOFfaA8zxa+0klXpSsdhWvTnLxw=
+golang.org/x/crypto v0.0.0-20210220033146-aadfb00c3bba/go.mod h1:KQrk1JFvyLwck/0L9ehDDf/t6JXW4oECCXGVw5ft9ew=
